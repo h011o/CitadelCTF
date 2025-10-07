@@ -16,7 +16,7 @@ So when you see: 010000010010, according to the indexing system, the 1 is in pos
 
 <img width="393" height="238" alt="image" src="https://github.com/user-attachments/assets/981fa061-850e-4276-9198-c53d58b90155" />
 
-Similarly, on decoding all 28 strings we get our flag.
+Similarly, on decoding all 28 binary strings following the same procedure we get our flag.
 
 ## Flag 
 ``citadel{r3b3ll10n$&BU1lt:0nH0p3}``
