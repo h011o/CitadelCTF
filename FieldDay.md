@@ -13,6 +13,6 @@ Each FIELDATA character (like A,B,1,2..) is represented by a combination of thos
 Basically, every time the bit value is equal to 1, its bit position is considered.
 
 So when you see: 010000010010, according to the indexing system, this means 11-5 which means N.
-<img width="189" height="847" alt="image" src="https://github.com/user-attachments/assets/d7995af8-f062-4376-b1fa-9679e8e432ea" />
+                                                                                    <img width="189" height="847" alt="image" src="https://github.com/user-attachments/assets/d7995af8-f062-4376-b1fa-9679e8e432ea" />
 
  
