@@ -12,7 +12,7 @@ This is how the 12 bit string is indexed :
 Each FIELDATA character (like A,B,1,2..) is represented by a combination of those bits.
 Basically, every time the bit value is equal to 1, its bit position is considered.
 
-So when you see: 010000010010, according to the indexing system, the 1 is in positions 11 and 5, this means 11-5 which means N.
+So when you see: 010000010010, according to the indexing system, the 1 is in positions 11 and 5, according to the 80-punch card this means 11-5 which means N.
 
 <img width="393" height="238" alt="image" src="https://github.com/user-attachments/assets/981fa061-850e-4276-9198-c53d58b90155" />
 
