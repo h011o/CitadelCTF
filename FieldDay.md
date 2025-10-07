@@ -13,9 +13,13 @@ Each FIELDATA character (like A,B,1,2..) is represented by a combination of thos
 Basically, every time the bit value is equal to 1, its bit position is considered.
 
 So when you see: 010000010010, according to the indexing system, the 1 is in positions 11 and 5, this means 11-5 which means N.
+
 <img width="393" height="238" alt="image" src="https://github.com/user-attachments/assets/981fa061-850e-4276-9198-c53d58b90155" />
 
-Similarly, on decoding all 28 strings we get our flag, ``Flag: citadel{r3b3ll10n$&BU1lt:0nH0p3}``
+Similarly, on decoding all 28 strings we get our flag.
+
+## Flag 
+``citadel{r3b3ll10n$&BU1lt:0nH0p3}``
                                                                                     
 
  
