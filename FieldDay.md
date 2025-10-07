@@ -20,6 +20,9 @@ Similarly, on decoding all 28 binary strings following the same procedure we get
 
 ## Flag 
 ``citadel{r3b3ll10n$&BU1lt:0nH0p3}``
+
+## References
+> https://www.fourmilab.ch/documents/univac/fieldata.html
                                                                                     
 
  
