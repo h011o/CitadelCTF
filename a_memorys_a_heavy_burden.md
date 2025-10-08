@@ -1,4 +1,6 @@
-<img width="892" height="88" alt="image" src="https://github.com/user-attachments/assets/0e4d06f3-277c-4fd3-aae4-7a2804704641" /># A memory's a heavy burden
+# A memory's a heavy burden
+
+<img width="892" height="88" alt="image" src="https://github.com/user-attachments/assets/0e4d06f3-277c-4fd3-aae4-7a2804704641" />
 
 ## Description
 > This challenge provides us with an image of Mt. Fuji and asks us to find its exact location coordinates.
