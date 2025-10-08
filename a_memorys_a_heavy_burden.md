@@ -1,6 +1,5 @@
 # A memory's a heavy burden
 
-<img width="892" height="88" alt="image" src="https://github.com/user-attachments/assets/0e4d06f3-277c-4fd3-aae4-7a2804704641" />
 
 ## Description
 > This challenge provides us with an image of Mt. Fuji and asks us to find its exact location coordinates.
@@ -12,6 +11,8 @@ The compass direction tells us that the location is towards the north of the mou
 hints to us that it is possibly near a Buddhist temple. We can also see some cherry blossoms and a residental area along with a forested hill.
 
 I then entered all this information along with the image to a location analyzer which predicted the area to be in Yamanashi. 
+
+<img width="892" height="88" alt="image" src="https://github.com/user-attachments/assets/0e4d06f3-277c-4fd3-aae4-7a2804704641" />
 
 On using the satelite view of google maps and scouting along the forested region, we see two Buddhist temple's which stands out.
 <img width="1414" height="787" alt="image" src="https://github.com/user-attachments/assets/58097d9d-f274-4915-9f47-0468db4e4f22" />
