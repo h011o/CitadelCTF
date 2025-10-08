@@ -20,7 +20,8 @@ On using the satelite view of google maps and scouting along the forested region
 
 <img width="1414" height="787" alt="image" src="https://github.com/user-attachments/assets/58097d9d-f274-4915-9f47-0468db4e4f22" />
 
-Then we use the street view feautre to finally find our required location. 
+Then we use the street view feautre and roam around the region to finally find our required location. 
+
 <img width="1856" height="982" alt="image" src="https://github.com/user-attachments/assets/d88b2ec7-da78-42f8-8f09-ac2922ca2f87" />
 
 ## The flag
