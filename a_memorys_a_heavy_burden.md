@@ -8,7 +8,7 @@
 
 ## My solve
 
-The compass direction tells us that the location is towards the north of the mountain. In our image we can see the highly distinctive japanese cemetries and the description of the challenge 
+The compass direction tells us that the location is towards the north of the mountain. In our image we can see the highly distinctive japanese cemetries and the description of the challenge also
 hints to us that it is possibly near a Buddhist temple. We can also see some cherry blossoms and a residental area along with a forested hill.
 
 I then entered all this information along with the image to a location analyzer which predicted the area to be in Yamanashi. 
