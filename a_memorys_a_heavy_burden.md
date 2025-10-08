@@ -2,7 +2,9 @@
 
 
 ## Description
-> This challenge provides us with an image of Mt. Fuji and asks us to find its exact location coordinates.
+> This challenge provides us with an image with Mt. Fuji and asks to find its exact location coordinates.
+<img width="1916" height="788" alt="location" src="https://github.com/user-attachments/assets/a057d6fe-f3d6-401f-935e-817152a717f6" />
+
 
 ## My solve
 
