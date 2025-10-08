@@ -5,7 +5,7 @@
 > This challenge provides us with an image of Mt. Fuji and asks us to find its exact location coordinates.
 
 ## My solve
-<img width="1884" height="910" alt="image" src="https://github.com/user-attachments/assets/c224685e-7176-442e-80a7-2ddf143ba0f1" />
+
 The compass direction tells us that the location is towards the north of the mountain. In our image we can see the highly distinctive japanese cemetries and the description of the challenge 
 hints to us that it is possibly near a Buddhist temple. We can also see some cherry blossoms and a residental area along with a forested hill.
 
