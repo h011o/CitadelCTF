@@ -18,7 +18,8 @@ I then entered all this information along with the image to a location analyzer 
 
 On using the satelite view of google maps and scouting along the forested region in Yamanshi, we see two Buddhist temple's which stands out.
 
-![Uploading image.png…]()
+<img width="1758" height="847" alt="Screenshot 2025-10-08 180705" src="https://github.com/user-attachments/assets/a6dc683f-15cd-4433-8c1a-7c4ca8007399" />
+
 
 
 Then we use the street view feautre and roam around the region to finally find our required location. 
