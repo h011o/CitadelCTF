@@ -16,7 +16,7 @@ I then entered all this information along with the image to a location analyzer 
 <img width="892" height="88" alt="image" src="https://github.com/user-attachments/assets/0e4d06f3-277c-4fd3-aae4-7a2804704641" />
 
 
-On using the satelite view of google maps and scouting along the forested region in Yamanashi, going through every temple, we find our location in Narusawa.
+On using the satelite view of google maps and scouting along the forested region in Yamanashi, going through every temple, we find our temple in Narusawa.
 
 <img width="1758" height="847" alt="Screenshot 2025-10-08 180705" src="https://github.com/user-attachments/assets/a6dc683f-15cd-4433-8c1a-7c4ca8007399" />
 
